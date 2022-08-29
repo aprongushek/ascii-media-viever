@@ -1,0 +1,9 @@
+# object and dependencies files
+*.o
+*.d
+
+# executable files
+*.exe
+
+# test files
+*TEST*
